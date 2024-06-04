@@ -1,5 +1,5 @@
 # Description
-Enter the Gregorian date as an input and  convert in to the hijri date
+Enter the Gregorian date as an input and  convert to the hijri date
 # Ghaflanko_shamsi
 + Input :1986/08/18 OR 1986-08-18 OR 1986/8/18
 
