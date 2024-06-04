@@ -77,7 +77,7 @@ def today(year,month,day):
     else:
         print('سال کبیسه نیست')
 
-    #print(f"m_Year={m_Year},m_month={m_month},m_day={m_day},t3={t3},m_upday={m_upday},t6={t6},yearlenght={YearLenght},sh_upday={sh_upday},len_month_sh={len_month_sh},sh_month={sh_month},iloop={iLoop},sh_lupday={sh_lupday},sh-day={sh_day},sh_year={sh_year}")
+    #print(f"m_Year={m_YeaEnter the Gregorian date as an input and  convert in to the hijri dater},m_month={m_month},m_day={m_day},t3={t3},m_upday={m_upday},t6={t6},yearlenght={YearLenght},sh_upday={sh_upday},len_month_sh={len_month_sh},sh_month={sh_month},iloop={iLoop},sh_lupday={sh_lupday},sh-day={sh_day},sh_year={sh_year}")
 
     return
 
