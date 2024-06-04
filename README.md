@@ -1,51 +1,13 @@
-# Edge Detection Of Image
+# Description
+Enter the Gregorian date in the input and view it in the Jalali date output
+# Ghaflanko_shamsi
++ Input :1986/08/18 OR 1986-08-18 OR 1986/8/18
 
-+ Input :
-<p align="center"><img src="https://github.com/Zahra-jafari-2024/Edge_Detection_Image/blob/main/Edge_Detection_Image/Ganeshji.jpg" width="300" height="200" ></p> 
++ Output :1365/05/27
 
-<br>
-
-+ Output :
-<p align="center"><img src="https://github.com/Zahra-jafari-2024/Edge_Detection_Image/blob/main/Edge_Detection_Image/output.jpg" width="300" height="200" ></p>
-
-<br/>
 
 # Installation 
 
 ```bash
-pip install Edge_Detection_Image
+pip Ghaflanko_shamsi
 ```
-
-<br>
-
-# How to use 
-
-## 1. Use with Python environments : 
-
-```python
-from Edge_Detection_Image import main 
-
-Edge_Detection_Image.main("image.jpg")
-
- or 
-
-Edge_Detection_Image.main("https://..../image.jpg")
-```
-<br>
-
-## 2. Use with CLI :
-
-+ using local image :
-
-```bash
-python -m Edge_Detection_Image.main --input "image.jpg"
-```
-
-+ using URL :
-
-```bash
-python -m Edge_Detection_Image.main --input "https://..../image.jpg"
-```
-
-
-Your watercolored image will be saved in your file folder .

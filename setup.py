@@ -2,14 +2,14 @@ from setuptools import setup, find_packages
 
 setup(
     name='Ghaflanko_shamsi',
-    version='0.1.1',
+    version='1.0.0',
     packages=find_packages(),
-    description="Edge Detection is a method of segmenting an image into regions of discontinuity",
+    description="Jalali datetime convert for python",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author="zahra jafari",
-    author_email="mzahrajafari94@gmail.com",
-    url="https://github.com/Zahra-jafari-2024/Edge_Detection_Image",
+    author="mehdi ghaffari moghaddam",
+    author_email="mehdi.ghaffari.moghaddam@gmail.com",
+    url="https://github.com/mehdigh125/Ghaflanko_shamsi.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
