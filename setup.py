@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Ghaflanko_shamsi',
+    name='Ghaflankoo_shamsi',
     version='1.0.0',
     packages=find_packages(),
     description="Jalali datetime convert for python",

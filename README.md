@@ -1,11 +1,11 @@
 # Description
 Enter the Gregorian date as an input and  convert to the hijri date
-# Ghaflanko_shamsi
+# Ghaflankoo_shamsi
 + Input :
 <br>year=1986
 <br>month=8
 <br>day=18
-<br>Ghaflanko_shamsi.today(year,month,day)
+<br>Ghaflankoo_shamsi.today(year,month,day)
 <br>
 
 + Output :
@@ -15,14 +15,14 @@ Enter the Gregorian date as an input and  convert to the hijri date
 # Installation 
 
 ```bash
-pip Ghaflanko_shamsi
+pip Ghaflankoo_shamsi
 ```
 
 # Example
 ```
-from Ghaflanko_shamsi import Ghaflanko_shamsi 
+from Ghaflankoo_shamsi import Ghaflankoo_shamsi 
 year=1987
 month=8
 day=18
-Ghaflanko_shamsi.today(year,month,day)
+Ghaflankoo_shamsi.today(year,month,day)
 ```
