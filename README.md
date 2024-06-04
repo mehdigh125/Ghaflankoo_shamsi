@@ -1,7 +1,11 @@
 # Description
 Enter the Gregorian date as an input and  convert to the hijri date
 # Ghaflanko_shamsi
-+ Input :1986/08/18 OR 1986-08-18 OR 1986/8/18
++ Input :
+year=1986
+month=8
+day=18
+Ghaflanko_shamsi.today(year,month,day)
 
 + Output :1365/05/27
 
