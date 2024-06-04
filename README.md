@@ -17,3 +17,12 @@ Enter the Gregorian date as an input and  convert to the hijri date
 ```bash
 pip Ghaflanko_shamsi
 ```
+
+# Example
+```
+from Ghaflanko_shamsi import Ghaflanko_shamsi 
+year=1987
+month=8
+day=18
+Ghaflanko_shamsi.today(year,month,day)
+```
